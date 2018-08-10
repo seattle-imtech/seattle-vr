@@ -1,8 +1,23 @@
 # Seattle VR: Hackathon
 
-**Registration: [2018 Hackathon](https://www.eventbrite.com/e/seattle-vr-ar-hackathon-2018-tickets-48215759635)**
+- [Seattle VR: Hackathon](#seattle-vr-hackathon)
+	- [The Seattle VR Hackathon returns!](#the-seattle-vr-hackathon-returns)
+	- [What is a VR Hackathon?](#what-is-a-vr-hackathon)
+	- [Who can participate?](#who-can-participate)
+	- [How much does it cost?](#how-much-does-it-cost)
+	- [When and where?](#when-and-where)
+	- [Other Frequently Asked Questions](#other-frequently-asked-questions)
+	- [Schedule](#schedule)
+		- [Friday](#friday)
+		- [Saturday](#saturday)
+		- [Sunday](#sunday)
+	- [Hackathon Rules](#hackathon-rules)
+	- [Refund Policy](#refund-policy)
+	- [Contacting Us](#contacting-us)
 
 ## The Seattle VR Hackathon returns!
+
+**Registration: [2018 Hackathon](https://www.eventbrite.com/e/seattle-vr-ar-hackathon-2018-tickets-48215759635)**
 
 It's been a crazy year in VR / AR. Oculus have released the first cheap fully self-contained VR device at $200, HTC have pushed the limit with the Vive Pro, and the AR headset market is booming with lots of new devices on the horizon.
 
@@ -58,13 +73,13 @@ The Seattle VR Hackathon will be hosted at the University of Washington's Center
 
 Our schedule, below, is tentative at this stage, but unlikely to change significantly.
 
-#### Friday
+### Friday
 
 	6:00 PM - VR Mega-Mixer begins
 	7:30 PM - Hackathon Kickoff / Lightning Rounds / Team Formation
 	Hack overnight
 
-#### Saturday
+### Saturday
 
 	9:00 AM - Registration / Breakfast
 	10:00 AM - Workshops Begin
@@ -74,7 +89,7 @@ Our schedule, below, is tentative at this stage, but unlikely to change signific
 	11 PM - Late Night Snack
 	Hack overnight
 
-#### Sunday
+### Sunday
 
 	9:00 AM - Breakfast
 	12:00 PM - Lunch

@@ -1,7 +1,8 @@
 # Seattle VR: Panels and Presentations
 
-- https://www.meetup.com/Seattle-VR-Panels-Presentations/
-- [Code of Conduct](../code-of-conduct.md)
+https://www.meetup.com/Seattle-VR-Panels-Presentations/
+  
+[Code of Conduct](../code-of-conduct.md)
 
 ## What we're about
 

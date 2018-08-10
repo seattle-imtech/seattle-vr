@@ -1,7 +1,17 @@
 # Frequently Asked Questions
+- [Frequently Asked Questions](#frequently-asked-questions)
+    - [Do I have to know how to program to come to this event?](#do-i-have-to-know-how-to-program-to-come-to-this-event)
+    - [Do I need my own VR headset?](#do-i-need-my-own-vr-headset)
+    - [What should I bring?](#what-should-i-bring)
+    - [Is the venue ADA compliant?](#is-the-venue-ada-compliant)
+    - [Do I need to have a particular project to work on?](#do-i-need-to-have-a-particular-project-to-work-on)
+    - [Can I bring a project I’m already working on?](#can-i-bring-a-project-im-already-working-on)
+    - [How do I learn about developing for VR?](#how-do-i-learn-about-developing-for-vr)
+    - [What are the prize categories?](#what-are-the-prize-categories)
+    - [What workshops will be available?](#what-workshops-will-be-available)
+    - [How can I get more involved?](#how-can-i-get-more-involved)
 
 ## Do I have to know how to program to come to this event?
-
 No! We welcome anyone with an interest in working on VR and immersive technology projects. People with skill in art, sound, and design are in especially high demand throughout the weekend.
 
 ## Do I need my own VR headset?
