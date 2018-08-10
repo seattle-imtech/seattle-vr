@@ -37,7 +37,7 @@ We aim to run the event as close to cost as possible as we recognize that many p
 
 ## When and where?
 
-The event will run over the weekend of **September 14-16**, 2018, starting **6pm Friday and ending 6pm Sunday.**
+The event will run over the weekend of **September 14-16**, 2018, starting **6pm Friday** and ending **6pm Sunday.**
 
 [Add to Calendar](https://www.eventbrite.com/e/seattle-vr-ar-hackathon-2018-tickets-48215759635#add-to-calendar-modal)
 
