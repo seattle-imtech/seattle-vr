@@ -19,7 +19,7 @@ If you notice an error or have a suggestion feel free to send us a PR or connect
 ## Getting involved
 
 - [Looking to demo](demoing.md)
-- [Looking to present](sponsorship.md)
+- [Looking to present](presenting.md)
 - [Looking to volunteer](volunteering.md)
 - [Looking to sponsor](sponsorship.md)
 - [Looking to host](hosting.md)
