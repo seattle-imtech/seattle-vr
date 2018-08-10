@@ -14,7 +14,7 @@ If you notice an error or have a suggestion feel free to send us a PR or connect
 - [Code of Conduct](code-of-conduct.md)
 - [Seattle VR: Demo Nights](demo-nights/README.md)
 - [Seattle VR: Panels and Presentations](panels-and-presentations/README.md)
-- [Seattle VR: Hackathons](hackathons/README.md)
+- [Seattle VR: Hackathons](hackathon/README.md)
 
 ## Getting involved
 
