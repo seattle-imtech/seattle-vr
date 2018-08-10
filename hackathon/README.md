@@ -67,7 +67,7 @@ The Seattle VR Hackathon will be hosted at the University of Washington's Center
 
 
 
-## [Other Frequently Asked Questions](FAQ.md)
+## [Frequently Asked Questions](FAQ.md)
 
 ## Schedule
 
