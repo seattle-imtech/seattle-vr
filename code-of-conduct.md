@@ -28,6 +28,6 @@ Organizers will be happy to help participants contact venue security or local la
 We expect all participants to follow these policies at official meetups and meetup-related events.
 
 ## Contact Organizers
-- [twitter](https://twitter.com/seattlevr)
-- [slack](https://join.slack.com/t/seattlevr/shared_invite/enQtNDEzNjQzNzUyODY1LWY2YTZiZDUxN2EwMTZiNDliMzBlZTM2YzlmODE4MjE0YmNhNjhhYjkyNGRjZWJmM2E3NzhhM2NiNjFkYTY4YmU)
-- [general@seattle-immersive.com](mailTo:general@seattle-immersive.com)
+- [Twitter](https://twitter.com/seattlevr)
+- [Slack](https://join.slack.com/t/seattlevr/shared_invite/enQtNDEzNjQzNzUyODY1LWY2YTZiZDUxN2EwMTZiNDliMzBlZTM2YzlmODE4MjE0YmNhNjhhYjkyNGRjZWJmM2E3NzhhM2NiNjFkYTY4YmU)
+- [General@seattle-immersive.com](mailTo:general@seattle-immersive.com)
