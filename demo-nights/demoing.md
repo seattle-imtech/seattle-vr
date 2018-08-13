@@ -10,9 +10,9 @@ We cannot wait to see what you've got to share!
 
 The first step to demoing is applying through our demo form and letting us know about your project: 
 
-https://goo.gl/forms/gzAgXWdjEjIeqdqo2
+[Demo Application Form](https://goo.gl/forms/gzAgXWdjEjIeqdqo2)
 
-After you've applied, someone will be in contact shortly to confirm your demo information.
+After you've applied, someone will be in contact shortly to confirm your demo information and to get things squared away.
 
 ## What to expect on demo day
 
