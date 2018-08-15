@@ -141,7 +141,7 @@ We're working hard to get the demo wait lines down. Luckily it's a good problem.
 
 I mean... hell yeah!
 
-### Industry Stickers/Identifiers (Artist, Sound Designers, Programmers, Business folks, makers/hobbyists, experience levels)
+### Industry Stickers/Identifiers (Artist, Sound Designers, Programmers, Business Professionals, Makers/Hobbyists, Experience Levels)
 
 This was brought up a few times in various forms. We want to be careful though. Things like these can quickly devolve into a "we don't talk to orange badges" mentality. But at the same time we recognize how it'd be a lot less intimidating to walk up and introduce yourself to someone new, when you already know you have a shared interest in sound design, for example.
 
