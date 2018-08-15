@@ -69,9 +69,9 @@ Also, the people who said "missing it" are hecka sweet. :heart_eyes:
 We're working on bettering our communication across all our platforms and working on getting a dedicated person for social media engagement.
 
 So imma post a bunch of links here.... no reason... but dang do they look clickable :smirk:
-- [Demo Nights](demo-nights/)
-- [Panels and Presentations](panels-and-presentations/)
-- [Hackathons](hackathon/)
+- [Demo Nights](../demo-nights/)
+- [Panels and Presentations](../panels-and-presentations/)
+- [Hackathons](../hackathon/)
 - [Facebook Group](https://www.facebook.com/groups/1457926677836973/)
 - [Twitter](https://twitter.com/seattlevr)
 - [Slack](https://join.slack.com/t/seattlevr/shared_invite/enQtNDEzNjQzNzUyODY1LWY2YTZiZDUxN2EwMTZiNDliMzBlZTM2YzlmODE4MjE0YmNhNjhhYjkyNGRjZWJmM2E3NzhhM2NiNjFkYTY4YmU)
