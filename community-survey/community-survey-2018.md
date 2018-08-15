@@ -3,6 +3,7 @@ A massive thank you to everyone who took the time to fill out our 2018 Community
 
 Thanks so much again for the feedback, and for being an absolutely amazing community! :heart_eyes:
 
+## Table of Contents
 - [Seattle VR 2018 Community Survey Results/Review](#seattle-vr-2018-community-survey-resultsreview)
     - [1) What types of events do you regularly attend / follow?](#1-what-types-of-events-do-you-regularly-attend--follow)
     - [2) Please rate how important each item is on determining your attendance of any given meetup](#2-please-rate-how-important-each-item-is-on-determining-your-attendance-of-any-given-meetup)
