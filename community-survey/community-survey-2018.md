@@ -3,6 +3,33 @@ A massive thank you to everyone who took the time to fill out our 2018 Community
 
 Thanks so much again for the feedback, and for being an absolutely amazing community! :heart_eyes:
 
+- [Seattle VR 2018 Community Survey Results/Review](#seattle-vr-2018-community-survey-resultsreview)
+    - [1) What types of events do you regularly attend / follow?](#1-what-types-of-events-do-you-regularly-attend--follow)
+    - [2) Please rate how important each item is on determining your attendance of any given meetup](#2-please-rate-how-important-each-item-is-on-determining-your-attendance-of-any-given-meetup)
+        - [a. Community Engagement and Networking Opportunities](#a-community-engagement-and-networking-opportunities)
+        - [b. The Planned Demos and Experiences](#b-the-planned-demos-and-experiences)
+        - [c. Snack and Drink Quality](#c-snack-and-drink-quality)
+        - [d. Friend or Family is also attending](#d-friend-or-family-is-also-attending)
+        - [e. Meetup Theme](#e-meetup-theme)
+        - [f. New Technology / Hardware](#f-new-technology--hardware)
+        - [g. Parking Availability](#g-parking-availability)
+        - [h. Bike/Transit Options](#h-biketransit-options)
+        - [i. Merch / Swag / Giveaways](#i-merch--swag--giveaways)
+        - [j. The Number of Things to Do / Try](#j-the-number-of-things-to-do--try)
+        - [k. Ease of getting to the event (travel times / distances)](#k-ease-of-getting-to-the-event-travel-times--distances)
+    - [3) What is your favorite thing about attending Seattle VR events? (ie. why do you attend our events?)](#3-what-is-your-favorite-thing-about-attending-seattle-vr-events-ie-why-do-you-attend-our-events)
+    - [4) What is your least favorite thing about attending Seattle VR events? (ie what deters you from attending events?)](#4-what-is-your-least-favorite-thing-about-attending-seattle-vr-events-ie-what-deters-you-from-attending-events)
+    - [5) How do you stay up to date with Seattle VR events?](#5-how-do-you-stay-up-to-date-with-seattle-vr-events)
+    - [6) What suggestions and ideas do you have for us? What can we do better for you?](#6-what-suggestions-and-ideas-do-you-have-for-us-what-can-we-do-better-for-you)
+        - [Improve Organizer/Volunteer visibility](#improve-organizervolunteer-visibility)
+        - [An Official Suggestion Box (digital or otherwise)](#an-official-suggestion-box-digital-or-otherwise)
+        - [Better communication / More frequent updates](#better-communication--more-frequent-updates)
+        - [Shorter lines/wait times](#shorter-lineswait-times)
+        - [More industry representation](#more-industry-representation)
+        - [Industry Stickers/Identifiers (Artist, Sound Designers, Programmers, Business folks, makers/hobbyists, experience levels)](#industry-stickersidentifiers-artist-sound-designers-programmers-business-folks-makershobbyists-experience-levels)
+    - [7) Are you employed in immersive tech?](#7-are-you-employed-in-immersive-tech)
+    - [Call for Volunteers](#call-for-volunteers)
+
 ## 1) What types of events do you regularly attend / follow?
 
 This question gives us an idea of our event sizes relative to each other but more valuably it provides a frame for rest of the questions. Giving a better understanding of the communities being represented by the responses.
