@@ -5,6 +5,7 @@ Thanks so much again for the feedback, and for being an absolutely amazing commu
 
 ## Table of Contents
 - [Seattle VR 2018 Community Survey Results/Review](#seattle-vr-2018-community-survey-resultsreview)
+    - [Table of Contents](#table-of-contents)
     - [1) What types of events do you regularly attend / follow?](#1-what-types-of-events-do-you-regularly-attend--follow)
     - [2) Please rate how important each item is on determining your attendance of any given meetup](#2-please-rate-how-important-each-item-is-on-determining-your-attendance-of-any-given-meetup)
         - [a. Community Engagement and Networking Opportunities](#a-community-engagement-and-networking-opportunities)
@@ -27,7 +28,7 @@ Thanks so much again for the feedback, and for being an absolutely amazing commu
         - [Better communication / More frequent updates](#better-communication--more-frequent-updates)
         - [Shorter lines/wait times](#shorter-lineswait-times)
         - [More industry representation](#more-industry-representation)
-        - [Industry Stickers/Identifiers (Artist, Sound Designers, Programmers, Business folks, makers/hobbyists, experience levels)](#industry-stickersidentifiers-artist-sound-designers-programmers-business-folks-makershobbyists-experience-levels)
+        - [Industry Stickers/Identifiers (Artist, Sound Designers, Programmers, Business Professionals, Makers/Hobbyists, Experience Levels)](#industry-stickersidentifiers-artist-sound-designers-programmers-business-professionals-makershobbyists-experience-levels)
     - [7) Are you employed in immersive tech?](#7-are-you-employed-in-immersive-tech)
     - [Call for Volunteers](#call-for-volunteers)
 
@@ -151,6 +152,6 @@ This was brought up a few times in various forms. We want to be careful though. 
 We also got a fantastic variety in self-described job titles and congratulations to the person that just got hired at Oculus. :raised_hands:
 
 ## Call for Volunteers
-We got a bunch of new people offering to volunteer and I just want to say thank you!!! We'll be in contact soon as we formalize our volunteer process. <3
+We got a bunch of new people offering to volunteer and I just want to say thank you!!! We'll be in contact soon as we formalize our volunteer process. :blue_heart:
 
 And if you've read this far, thanks so much! We're so proud of this community, and we can't wait to get to work on supporting it the best that we can! :purple_heart: :heartbeat: :purple_heart:
