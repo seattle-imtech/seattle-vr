@@ -7,7 +7,8 @@ We love learning from and sharing with each other. Whether it be showing off the
 To: general@seattle-immersive.org
 Subject: [Topic/Presentation] at Seattle VR
 
-Include a short description covering the five W's (who, what, when, where, why). Just so we can get an idea of who you are, what you're looking to share, and how best we can help.
+Include a short description covering the five W's (who, what, when, where, why). 
+Just so we can get an idea of who you are, what you're looking to share, and how best we can help.
 
 We'll get back to you shortly!
 ```
