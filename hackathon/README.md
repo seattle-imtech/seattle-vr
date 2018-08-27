@@ -6,7 +6,7 @@
 	- [Who can participate?](#who-can-participate)
 	- [How much does it cost?](#how-much-does-it-cost)
 	- [When and where?](#when-and-where)
-	- [Other Frequently Asked Questions](#other-frequently-asked-questions)
+	- [Frequently Asked Questions](#frequently-asked-questions)
 	- [Schedule](#schedule)
 		- [Friday](#friday)
 		- [Saturday](#saturday)
