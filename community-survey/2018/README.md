@@ -154,4 +154,6 @@ We also got a fantastic variety in self-described job titles and congratulations
 ## Call for Volunteers
 We got a bunch of new people offering to volunteer and I just want to say thank you!!! We'll be in contact soon as we formalize our volunteer process. :blue_heart:
 
+[Interested in getting involved?](../../volunteering.md)
+
 And if you've read this far, thanks so much! We're so proud of this community, and we can't wait to get to work on supporting it the best that we can! :purple_heart: :heartbeat: :purple_heart:
