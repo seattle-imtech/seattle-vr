@@ -22,8 +22,10 @@ Along with other event specific needs.
 - Name of company / venue
 - Address
 
-A description of the event you'd like to host (hackathon, demo night, panel/presentation, etc.), details about your venue, and why you'd like to host (hiring, community outreach/support, etc.). 
+A description of the event you'd like to host (hackathon, demo night, panel/presentation, etc), 
+Why you'd like to host (hiring, community outreach/support, etc),
+and details about your venue.
 
-And anything else you think we should know. 
+Just so we know how best we can work together.
 We'll get back to you shortly!
 ```
