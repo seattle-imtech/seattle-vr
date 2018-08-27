@@ -1,10 +1,10 @@
 # Seattle VR: Panels and Presentations
 
-https://www.meetup.com/Seattle-VR-Panels-Presentations/
-  
-[Code of Conduct](../code-of-conduct.md)
+- :link: [Meetup.com - Panels and Presentations](https://www.meetup.com/Seattle-VR-Panels-Presentations/)
+- :notebook: [Submit Presentation Proposal](presenting.md)
+- :page_with_curl: [Code of Conduct](../code-of-conduct.md)
 
-## What we're about
+## What We're About
 
 Come join the Seattle Location Based VR/AR and connect with a community of people interested in virtual reality and 3D technology. Whether you are a designer, developer, gamer, hacker, researcher, artist, entrepreneur, or are just curious, this is your chance to meet like-minded people from across Seattle’s vibrant community.
 
@@ -33,4 +33,4 @@ To examine how design choices affect the user experience in VR/AR/MR/XR.
 - http://xrdesignsalon.blogspot.com
 - https://twitter.com/xrdesignsalon
 - [@seattlevr](https://twitter.com/seattlevr) - [#xrdesignsalon](https://twitter.com/hashtag/xrdesignsalon) - [#seattlevr](https://twitter.com/hashtag/seattlevr)
-- Contact Susan at xrdesignsalon@gmail.com.
+- Contact Susan at xrdesignsalon@gmail.com
