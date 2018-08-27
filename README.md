@@ -9,7 +9,7 @@ If you notice an error or have a suggestion feel free to send us a PR or connect
 - [Slack](https://join.slack.com/t/seattlevr/shared_invite/enQtNDEzNjQzNzUyODY1LWY2YTZiZDUxN2EwMTZiNDliMzBlZTM2YzlmODE4MjE0YmNhNjhhYjkyNGRjZWJmM2E3NzhhM2NiNjFkYTY4YmU)
 - [General@seattle-immersive.com](mailTo:general@seattle-immersive.com)
   
-## **[2018 Community Survey Results](community-survey/2018/)**
+### **[2018 Community Survey Results](community-survey/2018/)**
 
 ## Event Specific Information
 
