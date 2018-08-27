@@ -24,4 +24,4 @@ If you notice an error or have a suggestion feel free to send us a PR or connect
 - [Looking to sponsor](sponsorship.md)
 - [Looking to host](hosting.md)
 
-Shout out to [Seattle JS](https://github.com/seattlejs/seattlejs) for the docs inspiration!
+Shout out to :point_right:[Seattle JS](https://github.com/seattlejs/seattlejs) :raised_hands: for the docs inspiration!
