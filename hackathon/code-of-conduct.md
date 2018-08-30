@@ -18,5 +18,5 @@ If, in the eyes of the Organizers, a hackathon participant is seen to have viola
 
 ## Contact Organizers
 - [twitter](https://twitter.com/seattlevr)
-- [slack](https://join.slack.com/t/seattlevr/shared_invite/enQtNDEzNjQzNzUyODY1LWY2YTZiZDUxN2EwMTZiNDliMzBlZTM2YzlmODE4MjE0YmNhNjhhYjkyNGRjZWJmM2E3NzhhM2NiNjFkYTY4YmU)
+- [slack](http://bit.ly/SeattleVRSlackSubscribe)
 - [general@seattle-immersive.com](mailTo:general@seattle-immersive.com)

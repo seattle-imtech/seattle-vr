@@ -4,9 +4,9 @@ Welcome to the Seattle VR Github! Here you'll find information on the group, eve
 
 If you notice an error or have a suggestion feel free to send us a PR or connect with us another way:
 
-- [Facebook](https://www.facebook.com/groups/1457926677836973/)
+- [Facebook](https://www.facebook.com/groups/seattlevrar/)
 - [Twitter](https://twitter.com/seattlevr)
-- [Slack](https://join.slack.com/t/seattlevr/shared_invite/enQtNDEzNjQzNzUyODY1LWY2YTZiZDUxN2EwMTZiNDliMzBlZTM2YzlmODE4MjE0YmNhNjhhYjkyNGRjZWJmM2E3NzhhM2NiNjFkYTY4YmU)
+- [Slack](http://bit.ly/SeattleVRSlackSubscribe)
 - [General@seattle-immersive.com](mailTo:general@seattle-immersive.com)
   
 ### **[2018 Community Survey Results](community-survey/2018/)**

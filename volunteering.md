@@ -4,7 +4,7 @@ Strictly speaking, our events would not be possible without our wonderful volunt
 
 **If you're interested in getting involved with Seattle VR please email us:**
 ```
-To: general@seattle-immersive.org
+To: info@seattle-immersive.org
 Subject: Volunteering with Seattle VR
 
 Include a short description of who you are, 

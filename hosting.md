@@ -2,7 +2,7 @@
 
 Hosting a Seattle VR event, whether it be a demo night, panel discussion, hackathon, or something in between, is a great way to engage and support a community of deeply engaged and passionate developers and enthusiasts.
 
-**If you're interested in hosting an event please email us at:** general@seattle-immersive.org
+**If you're interested in hosting an event please email us at:** info@seattle-immersive.org
 
 Please follow our **[Hosting Template](#hosting-template)**
 
@@ -19,8 +19,11 @@ Along with other event specific needs.
 
 ## Hosting template
 ```
+To: info@seattle-immersive.org
+Subject: Hosting Seattle VR
+
 - Name of company / venue
-- Address
+- Address / neighborhood
 
 A description of the event you'd like to host (hackathon, demo night, panel/presentation, etc), 
 Why you'd like to host (hiring, community outreach/support, etc),

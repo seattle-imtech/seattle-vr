@@ -6,7 +6,7 @@ So thank you truly.
 
 **If you're interested in sponsoring Seattle VR please email us:**
 ```
-To: general@seattle-immersive.org
+To: info@seattle-immersive.org
 Subject: Sponsoring Seattle VR
 
 - Name of company/sponsor

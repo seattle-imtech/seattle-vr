@@ -101,9 +101,9 @@ So imma post a bunch of links here.... no reason... but dang do they look clicka
 - [Demo Nights](../demo-nights/)
 - [Panels and Presentations](../panels-and-presentations/)
 - [Hackathons](../hackathon/)
-- [Facebook Group](https://www.facebook.com/groups/1457926677836973/)
+- [Facebook Group](https://www.facebook.com/groups/seattlevrar/)
 - [Twitter](https://twitter.com/seattlevr)
-- [Slack](https://join.slack.com/t/seattlevr/shared_invite/enQtNDEzNjQzNzUyODY1LWY2YTZiZDUxN2EwMTZiNDliMzBlZTM2YzlmODE4MjE0YmNhNjhhYjkyNGRjZWJmM2E3NzhhM2NiNjFkYTY4YmU)
+- [Slack](http://bit.ly/SeattleVRSlackSubscribe)
 
 
 ## 6) What suggestions and ideas do you have for us? What can we do better for you?

@@ -11,7 +11,7 @@
 
 Seattle VR is committed to providing a harassment-free environment for everyone regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices; especially technology choices.
 
-We do not tolerate harassment of participants in any form. Participants violating these rules may be expelled from the meetup **without a refund** at the discretion of Seattle VR organisers.
+We do not tolerate harassment of participants in any form. Harassment is defined by the victim not the agressor. Participants violating these rules may be expelled from the meetup **without a refund** at the discretion of Seattle VR organisers.
 
 Harassment includes but is not limited to:
 
@@ -19,7 +19,7 @@ Offensive verbal comments related to gender, gender identity/expression, age, se
 
 This harassment policy applies to all meetup attendees, demoers, volunteers, and organizers and all are expected to comply immediately if asked to stop any harassing behavior.
 
-If a participant engages in harassing behavior, the meetup organisers may take action they deem appropriate, including warning the offender or expulsion from the meetup without refund. 
+If a participant engages in harassing behavior, the meetup organizers may take action they deem appropriate, including warning the offender or expulsion from the meetup without refund. All attendees agree to comply to this decision without incident or debate.
 
 If you are being harassed, notice someone being harassed, or have any other concerns, please contact an organizer or volunteer immediately. Seattle VR organizers can be identified by red name tags.
 
@@ -29,5 +29,5 @@ We expect all participants to follow these policies at official meetups and meet
 
 ## Contact Organizers
 - [Twitter](https://twitter.com/seattlevr)
-- [Slack](https://join.slack.com/t/seattlevr/shared_invite/enQtNDEzNjQzNzUyODY1LWY2YTZiZDUxN2EwMTZiNDliMzBlZTM2YzlmODE4MjE0YmNhNjhhYjkyNGRjZWJmM2E3NzhhM2NiNjFkYTY4YmU)
+- [Slack](http://bit.ly/SeattleVRSlackSubscribe)
 - [General@seattle-immersive.com](mailTo:general@seattle-immersive.com)

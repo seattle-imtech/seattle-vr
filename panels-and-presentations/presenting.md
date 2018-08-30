@@ -4,7 +4,7 @@ We love learning from and sharing with each other. Whether it be showing off the
 
 **If you're interested in presenting at Seattle VR please email us:**
 ```
-To: general@seattle-immersive.org
+To: info@seattle-immersive.org
 Subject: [Topic/Presentation] at Seattle VR
 
 Include a short description covering the five W's (who, what, when, where, why). 
