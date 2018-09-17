@@ -16,7 +16,7 @@ After you've applied, someone will be in contact shortly to confirm your demo in
 
 ## What to expect on demo day
 
-1. **We aim to start setting up by 5:00pm and recommend arriving as close to then as possible.** This is in order to get everything setup and smoothed out in case of any unforeseen hiccups. Our goal is to have everyone setup by 6:30pm so you and your fellow demoers can mingle and check out each other's projects. Someday we'll hit that goal. 
+1. **We aim to start setting up demos by 6:00pm and recommend arriving as close to then as possible.** This is when the space is officially closed to the public so we can start moving things around. The earlier you arrive the better in order to get everything setup and smoothed out in case of any unforeseen hiccups. Our goal is to have everyone setup by 6:30pm so you and your fellow demoers can mingle and check out each other's projects. Someday we'll hit that goal. 
 
 2. **Once you're setup, feel free to venture out and grab some dinner in the area.** We only ask that you're back by 6:30pm for final prep/developer mingle/everyone's peace of mind.
    
