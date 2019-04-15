@@ -10,7 +10,7 @@ We can't wait to hear your story!
 
 ### Here's what to do next
  - Read the guidelines below
- - Submit your proposal either viac via our **[Google form](https://forms.gle/CXGj5eAaku4CV4PP9)** or by emailing us using our **[Speaking Request Template](#speaking-request-email-template)**
+ - Submit your proposal either via our **[Google form](https://forms.gle/CXGj5eAaku4CV4PP9)** or by emailing us using our **[Speaking Request Template](#speaking-request-email-template)**
  - If the topic seems like something that our members would be excited about we'll get to work on figuring out a schedule and making a plan!
 
 ## What makes a good talk?
