@@ -1,7 +1,7 @@
 # Seattle VR: Panels and Presentations
 
 - [Meetup.com - Panels and Presentations](https://www.meetup.com/Seattle-VR-Panels-Presentations/) :link:
-- [Submit Presentation Proposal](presenting.md) :notebook:
+- [Submit Presentation Proposal](../presenting.md) :notebook:
 - [Code of Conduct](../code-of-conduct.md) :page_with_curl:
 
 ## What We're About
