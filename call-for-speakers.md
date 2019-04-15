@@ -1,4 +1,4 @@
-# Presenting at Seattle VR
+# Seattle VR Call for Speakers
 
 We love learning from and sharing with each other. Whether it be showing off the bleeding edge, a development tips and tricks demo, practice for your conference talk, or just looking to share something cool you've built, we'd love to hear about it!
 
