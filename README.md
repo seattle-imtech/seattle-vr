@@ -1,6 +1,7 @@
 # Seattle VR
 
 Welcome to the Seattle VR Github! Here you'll find information on the group, events we have planned, ways to contribute, and other information for the Seattle VR Meetup groups. 
+<img align="right" alt="Seattle VR Logo" src="assets/logo-250.png">
 
 If you notice an error or have a suggestion feel free to send us a PR or connect with us another way:
 
