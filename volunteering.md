@@ -19,7 +19,7 @@ Subject: Volunteering with Seattle VR
 
 Include a short description of who you are, 
 how you're looking to contribute, 
-and what we can do so you make the most out of your experience.
+and what we can do so you can get the most out of your experience.
 
 We'll get back to you shortly!
 ```
