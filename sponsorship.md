@@ -17,8 +17,7 @@ The goal of our events is to create welcoming spaces to bring the Seattle VR com
 
 _* (depends on event format)_
 
-
-**If you're interested in sponsoring Seattle VR please fill out our **[Google form](https://docs.google.com/forms/d/1-qLfIAQuNrCu6iwbPQx23bv0_a43NBzTEwp_NOK4HGc)** or reach out to us via email:**
+**If you're interested in sponsoring Seattle VR please reach out to us via email:**
 ```
 To: info@seattle-immersive.org
 Subject: Sponsoring Seattle VR
