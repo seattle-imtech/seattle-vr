@@ -2,7 +2,7 @@
 
 Hosting a Seattle VR event, whether it be a demo night, panel discussion, hackathon, or something in between, is a great way to support and connect to a community of deeply passionate and engaged developers and enthusiasts.
 
-**If you're interested in hosting an event please reach out via our **[Google form](https://forms.gle/CXGj5eAaku4CV4PP9)** or by emailing us using our **[Hosting Template](#hosting-template)**
+**If you're interested in hosting an event please reach out via our **[Google form](https://forms.gle/CXGj5eAaku4CV4PP9)** or by emailing us using our **[Hosting Template](#hosting-template)****
 
 And thank you so much!
 
