@@ -1,4 +1,4 @@
-# Hosting a Seattle VR Event
+# Seattle VR Call for Venues
 
 Hosting a Seattle VR event, whether it be a demo night, panel discussion, hackathon, or something in between, is a great way to support and connect to a community of deeply passionate and engaged developers and enthusiasts.
 
