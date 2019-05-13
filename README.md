@@ -8,7 +8,7 @@ If you notice an error or have a suggestion feel free to send us a PR or connect
 - [Facebook](https://www.facebook.com/groups/seattlevrar/)
 - [Twitter](https://twitter.com/seattlevr)
 - [Slack](http://bit.ly/SeattleVRSlackSubscribe)
-- [Seattle-vr.com] (https://seattle-vr.com/)
+- [Seattle-vr.com](https://seattle-vr.com/)
 - [General@seattle-immersive.com](mailTo:general@seattle-immersive.com)
   
 ### **[2018 Community Survey Results](community-survey/2018/)**
