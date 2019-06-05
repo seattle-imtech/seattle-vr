@@ -29,5 +29,5 @@ We expect all participants to follow these policies at official meetups and meet
 
 ## Contact Organizers
 - [Twitter](https://twitter.com/seattlevr)
-- [Slack](http://bit.ly/SeattleVRSlackSubscribe)
+- [Slack](https://seattle-vr-slack.herokuapp.com/)
 - [General@seattle-immersive.com](mailTo:general@seattle-immersive.com)

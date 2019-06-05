@@ -103,7 +103,7 @@ So imma post a bunch of links here.... no reason... but dang do they look clicka
 - [Hackathons](../hackathon/)
 - [Facebook Group](https://www.facebook.com/groups/seattlevrar/)
 - [Twitter](https://twitter.com/seattlevr)
-- [Slack](http://bit.ly/SeattleVRSlackSubscribe)
+- [Slack](https://seattle-vr-slack.herokuapp.com/)
 
 
 ## 6) What suggestions and ideas do you have for us? What can we do better for you?

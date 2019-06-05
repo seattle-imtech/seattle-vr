@@ -29,7 +29,7 @@ To examine how design choices affect the user experience in VR/AR/MR/XR.
 ## Connect with Us
 
 - https://www.facebook.com/groups/seattlevrar/
-- Join Seattle VR Slack: http://bit.ly/SeattleVRSlackSubscribe
+- Join Seattle VR Slack: https://seattle-vr-slack.herokuapp.com/
 - http://xrdesignsalon.blogspot.com
 - https://twitter.com/xrdesignsalon
 - [@seattlevr](https://twitter.com/seattlevr) - [#xrdesignsalon](https://twitter.com/hashtag/xrdesignsalon) - [#seattlevr](https://twitter.com/hashtag/seattlevr)
